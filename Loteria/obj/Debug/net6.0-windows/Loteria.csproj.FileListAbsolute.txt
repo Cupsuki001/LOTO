@@ -1,0 +1,17 @@
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\bin\Debug\net6.0-windows\Loteria.exe
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\bin\Debug\net6.0-windows\Loteria.deps.json
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\bin\Debug\net6.0-windows\Loteria.runtimeconfig.json
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\bin\Debug\net6.0-windows\Loteria.dll
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\bin\Debug\net6.0-windows\Loteria.pdb
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.Form1.resources
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.csproj.GenerateResource.cache
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.AssemblyInfoInputs.cache
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.AssemblyInfo.cs
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.dll
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\refint\Loteria.dll
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.pdb
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\Loteria.genruntimeconfig.cache
+C:\Users\Estudiantes\source\repos\Loteria\Loteria\obj\Debug\net6.0-windows\ref\Loteria.dll
